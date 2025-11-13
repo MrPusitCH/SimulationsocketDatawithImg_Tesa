@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large video files (optional - uncomment if you don't want to commit videos)
+# mp4/
+# *.mp4
+
+# Large image directories (optional - uncomment if you don't want to commit all frames)
+# P3_VIDEO_frames/
+
